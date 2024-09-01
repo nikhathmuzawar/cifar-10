@@ -30,3 +30,4 @@ saved the model as cifar10_model.h5
    macro avg       0.76      0.75      0.75     10000
 weighted avg       0.76      0.75      0.75     10000
 `
+![cif10](https://github.com/user-attachments/assets/ec09b9b6-a0e1-45fe-8518-ed8cf7716594)
