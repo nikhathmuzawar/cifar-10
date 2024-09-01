@@ -1,14 +1,18 @@
 # cifar-10
 Develop a model from scratch, without using any pre-existing
 models or frameworks, and train it on the CIFAR-10 dataset. Submit the precision
-and recall metrics for the trained model.
+and recall metrics for the trained model.  
+
 **model.py**
 Training a model without using any frameworks.
 Was unable to get good accuracy
-Got an accuracy of about 13.5%
+Got an accuracy of about 13.5%  
+
 **model-kears.py**
-trained the cifar-10 dataset using keras.
-saved the model as cifar10_model.h5
+trained the cifar-10 dataset using keras.  
+
+saved the model as cifar10_model.h5  
+
 `              precision    recall  f1-score   support
 
            0       0.83      0.73      0.78      1000
